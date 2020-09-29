@@ -1,8 +1,6 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
-<h3 align="center">
-  👨🏻‍🚀 Desafio: Primeiro projeto Node.js - BOOTCAMP GOSTACK 11.0 🚀
-</h3>
+<h1 align="center">
+  👨🏻‍🚀 Fundamentos - Node.js
+</h1>
 
 ### ✔️ Específicação dos testes
 
@@ -17,10 +15,10 @@ Para esse desafio temos os seguintes testes:
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;</br>
-   git clone https://github.com/matheusguermandi/gostack-desafio05.git
+   git clone https://github.com/matheusguermandi/fundamentos-nodejs.git
    
-2. Com o terminal aberto, verifique se está na pasta `gostack-desafio05`;</br>
-   Caso não esteja execute o comando `cd gostack-desafio05`
+2. Com o terminal aberto, verifique se está na pasta `fundamentos-nodejs`;</br>
+   Caso não esteja execute o comando `cd fundamentos-nodejs`
    
 3. Execute `yarn` para realizar a instalação das dependencias;
 
